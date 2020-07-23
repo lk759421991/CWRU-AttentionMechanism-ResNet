@@ -1,5 +1,5 @@
 # CWRU-AttentionMechanism-ResNet
-This is the source code in the paper "Temporal attention mechanism for bearing fault diagnosis in nuclear power plant rotating machines".
+This libary includes the source code, data set and results of the paper "Temporal attention mechanism for bearing fault diagnosis in nuclear power plant rotating machines".
 The classification and recognition task in the paper is called case1 in the code.
 
 1. Run Tresnet_case1.py to solve the recognition task through Traditional Resnet.
